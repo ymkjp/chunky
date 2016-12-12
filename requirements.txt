@@ -1,0 +1,2 @@
+humanfriendly==2.2
+scandir==1.4
